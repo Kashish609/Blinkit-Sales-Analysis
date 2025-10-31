@@ -17,6 +17,7 @@ Sales by Outlet Location – Assess sales distribution across geographic locatio
 
 
 Tools libraries/tools:
+
 python
 pandas: manipulation,cleaning
 Matplotlib / Seaborn – Data visualization
